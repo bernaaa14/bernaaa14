@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Berna Marie Alhambra</h1>
 <h3 align="center">A lifelong learner aspring developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 - 🌱 I’m currently learning **Java, Python, Html, and CSS**
 
 - 📫 How to reach me **berna.alhambra14@gmail.com**
