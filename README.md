@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey 👋, I'm Berna Marie Alhambra</h1>
-  <h3>A lifelong learner aspiring developer</h3>
+  <h3>A lifelong learner and an aspiring developer</h3>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding">
   <div align="left">
     <ul>
@@ -14,9 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/berna alhambra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="berna alhambra" height="30" width="40" />
-  </a>
+<a href="https://www.facebook.com/berna.alhambra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="berna alhambra" height="30" width="40" /></a>
+<a href="https://discord.gg/tesla0938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tesla0938" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
