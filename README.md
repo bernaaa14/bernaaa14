@@ -1,11 +1,15 @@
 <h1 align="center">Hey 👋, I'm Berna Marie Alhambra</h1>
-<h3 align="center">A lifelong learner aspring developer</h3>
+<h3 align="center">A lifelong learner aspiring developer</h3>
 
-- 🌱 I’m currently learning **Java, Python, Html, and CSS**
+<div style="text-align: center;">
+  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
+
+- 🌱 I’m currently learning **Java, Python, HTML, and CSS**
 
 - 📫 How to reach me **berna.alhambra14@gmail.com**
 
-- ⚡ Fun fact **I love meeting like-minded people, there's so much I learn from them**
+- ⚡ Fun fact **I love meeting like-minded people; there's so much I learn from them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
