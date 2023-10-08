@@ -2,7 +2,7 @@
 <h3 align="center">A lifelong learner aspiring developer</h3>
 
 <div style="text-align: center;">
-  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
 - 🌱 I’m currently learning **Java, Python, HTML, and CSS**
