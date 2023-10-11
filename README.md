@@ -6,7 +6,7 @@
     <ul>
       <li>🌱 I’m currently learning <strong>Java, Python, HTML, and CSS</strong></li>
       <li>📫 How to reach me <strong>berna.alhambra14@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>I love meeting like-minded people; there's so much I learn from them</strong></li>
+      <li>⚡ Fun fact <strong>I love meeting new people; there's so much I learn from them (welp, at least most of the people I meet)</strong></li>
     </ul>
   </div>
 </div>
