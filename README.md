@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey 👋, I'm Berna Marie Alhambra</h1>
-  <h3>A lifelong learner and an aspiring developer</h3>
+  <h3>A lifelong learner.</h3>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding">
   <div align="left">
     <ul>
